@@ -14,6 +14,7 @@ ROWS_IGNORE = [
 ROWS_DATA = 3
 COLUMN_NAME = 0
 COLUMN_WEIGHT = 1
+COLUMN_RETAIL = 2
 COLUMN_TOTAL = 3
 COLUMNS_DATA = 4
 
@@ -35,11 +36,13 @@ with open('Kilo surprise Lindt  - Feuille 1.csv', encoding="utf-8") as csvfile:
         elif i >= ROWS_DATA:
             name       = row[COLUMN_NAME]
             weight     = float(row[COLUMN_WEIGHT].replace(",","."))
+            retail     = float(row[COLUMN_RETAIL].replace(",",".") if row[COLUMN_RETAIL] else 0)
             _          = row[COLUMN_TOTAL]
             quantities = [int(x) if x else 0 for x in row[COLUMNS_DATA:] ]
             choco_data.append({
                 "name" : name,
                 "weight" : weight,
+                "retail" : retail,
                 "quantities" : quantities
             })
 
@@ -59,6 +62,7 @@ for l in choco_data:
     entry = {
         "name" : l["name"],
         "weight" : l["weight"],
+        "retail" : l["retail"],
         "events" : []
     }
     for date, session, quantity in zip(headers, sessions, l["quantities"]):
