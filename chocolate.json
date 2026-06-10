@@ -1,0 +1,1152 @@
+{
+  "sessions": [
+    {
+      "id": "e3e70682",
+      "date": "16/06/2025",
+      "price": 15.9
+    },
+    {
+      "id": "f728b4fa",
+      "date": "4/7/2025",
+      "price": 15.9
+    },
+    {
+      "id": "eb1167b3",
+      "date": "4/7/2025",
+      "price": 15.9
+    },
+    {
+      "id": "f7c1bd87",
+      "date": "20/9/2025",
+      "price": 15.9
+    },
+    {
+      "id": "e443df78",
+      "date": "21/9/2025",
+      "price": 15.9
+    },
+    {
+      "id": "23a7711a",
+      "date": "21/9/2025",
+      "price": 15.9
+    },
+    {
+      "id": "1846d424",
+      "date": "8/11/2025",
+      "price": 15.9
+    },
+    {
+      "id": "fcbd04c3",
+      "date": "8/11/2025",
+      "price": 15.9
+    },
+    {
+      "id": "b4862b21",
+      "date": "7/11/2025",
+      "price": 15.9
+    },
+    {
+      "id": "259f4329",
+      "date": "21/11/2025",
+      "price": 15.9
+    },
+    {
+      "id": "12e0c8b2",
+      "date": "8/12/2025",
+      "price": 15.9
+    },
+    {
+      "id": "5487ce1e",
+      "date": "8/12/2025",
+      "price": 15.9
+    },
+    {
+      "id": "5a921187",
+      "date": "22/12/2025",
+      "price": 15.9
+    },
+    {
+      "id": "a3f2c9bf",
+      "date": "24/02/2026",
+      "price": 17.99
+    },
+    {
+      "id": "8d723104",
+      "date": "21/03/2026",
+      "price": 17.99
+    },
+    {
+      "id": "85776e9a",
+      "date": "02/05/2026",
+      "price": 17.99
+    },
+    {
+      "id": "eb2083e6",
+      "date": "02/05/2026",
+      "price": 17.99
+    },
+    {
+      "id": "17e0aa3c",
+      "date": "06/06/2026",
+      "price": 17.99
+    }
+  ],
+  "tablets": [
+    {
+      "name": "Dessert 70% Cacao Intense",
+      "weight": 0.2,
+      "events": [
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Cooking Extra Fondant",
+      "weight": 0.2,
+      "events": [
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création caramel",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 1
+        },
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 1
+        },
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création crème brûlée ",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 1
+        },
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 1
+        },
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création entremets noisette",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        },
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 1
+        },
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création Irish coffee ",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création Menthe Frappée",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création praliné feuilleté ",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 1
+        },
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 1
+        },
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création rocher blanc",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création rocher lait",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Création Rocher noir",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence 100% noir profond",
+      "weight": 0.05,
+      "events": [
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Blanc extra velouté ",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Caramel pointe de sel lait",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Caramel pointe de sel noir",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Dark 70% cocoa",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 1
+        },
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        },
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 2
+        },
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Dark 85% cocoa",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 1
+        },
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 1
+        },
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Doux 85% noir delicat",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 1
+        },
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 1
+        },
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir 90%",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Fusion Noir 70% & Blanc",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Fusion Noir 70% & Lait",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Fusion Noir 85% Fleur de Sel & Lait",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Lait extra fondant",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence menthe intense",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        },
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir à la pointe de fleur de sel",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 1
+        },
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 1
+        },
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir amandes effilées ",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir aux 3 graines",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir Citron Gingembre",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir craquant Pailleté gaufrette",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 1
+        },
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir craquant Pailleté gaufrette et orange",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir framboise intense",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 1
+        },
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir Orange intense",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 1
+        },
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 1
+        },
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 1
+        },
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 2
+        },
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 2
+        },
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir Pistache ",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir sésame grillé",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 2
+        },
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 2
+        },
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir zeste de citron vert",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Lait Caramel Pointe de Sel",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "L'authentique amandes effilées ",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 1
+        },
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "L'authentique lait extra fin",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 2
+        },
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        },
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 1
+        },
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        },
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "L'authentique lait fleur de sel",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        },
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 2
+        },
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 1
+        },
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "L'authentique lait noisettes ",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 1
+        },
+        {
+          "date": "21/03/2026",
+          "session": "8d723104",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "L'authentique noir extra fondant",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Les grandes 34% noisettes lait",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Les grandes Noir Praliné Noisettes",
+      "weight": 0.225,
+      "events": [
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lindor 70% cacao",
+      "weight": 0.145,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 1
+        },
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lindor blanc",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lindor lait",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "4/7/2025",
+          "session": "f728b4fa",
+          "quantity": 1
+        },
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 1
+        },
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "85776e9a",
+          "quantity": 1
+        },
+        {
+          "date": "02/05/2026",
+          "session": "eb2083e6",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lindor noir",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "4/7/2025",
+          "session": "eb1167b3",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lindor Caramel Pointe de sel",
+      "weight": 0.15,
+      "events": [
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lucky monkey lait céréales croustillantes",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 2
+        },
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lucky monkey lait fondant pâte de noisette",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "20/9/2025",
+          "session": "f7c1bd87",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "e443df78",
+          "quantity": 1
+        },
+        {
+          "date": "21/9/2025",
+          "session": "23a7711a",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "fcbd04c3",
+          "quantity": 1
+        },
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Lucky monkey lait onctueux",
+      "weight": 0.1,
+      "events": [
+        {
+          "date": "16/06/2025",
+          "session": "e3e70682",
+          "quantity": 1
+        },
+        {
+          "date": "8/11/2025",
+          "session": "1846d424",
+          "quantity": 1
+        },
+        {
+          "date": "7/11/2025",
+          "session": "b4862b21",
+          "quantity": 1
+        },
+        {
+          "date": "21/11/2025",
+          "session": "259f4329",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "12e0c8b2",
+          "quantity": 1
+        },
+        {
+          "date": "8/12/2025",
+          "session": "5487ce1e",
+          "quantity": 1
+        },
+        {
+          "date": "22/12/2025",
+          "session": "5a921187",
+          "quantity": 1
+        },
+        {
+          "date": "24/02/2026",
+          "session": "a3f2c9bf",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
