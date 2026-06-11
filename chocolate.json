@@ -334,7 +334,7 @@
       ]
     },
     {
-      "name": "Excellence Caramel pointe de sel lait",
+      "name": "Excellence Lait Caramel pointe de sel",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -342,11 +342,16 @@
           "date": "4/7/2025",
           "session": "f728b4fa",
           "quantity": 1
+        },
+        {
+          "date": "06/06/2026",
+          "session": "17e0aa3c",
+          "quantity": 1
         }
       ]
     },
     {
-      "name": "Excellence Caramel pointe de sel noir",
+      "name": "Excellence Noir Caramel pointe de sel",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -823,18 +828,6 @@
         {
           "date": "24/02/2026",
           "session": "a3f2c9bf",
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "Excellence Lait Caramel Pointe de Sel",
-      "weight": 0.1,
-      "retail": 0.0,
-      "events": [
-        {
-          "date": "06/06/2026",
-          "session": "17e0aa3c",
           "quantity": 1
         }
       ]
