@@ -89,6 +89,11 @@
       "id": "17e0aa3c",
       "date": "06/06/2026",
       "price": 17.99
+    },
+    {
+      "id": "b5d32b16",
+      "date": "31/07/2026",
+      "price": 17.99
     }
   ],
   "tablets": [
@@ -166,6 +171,11 @@
         {
           "date": "06/06/2026",
           "session": "17e0aa3c",
+          "quantity": 1
+        },
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
           "quantity": 1
         }
       ]
@@ -373,7 +383,7 @@
       ]
     },
     {
-      "name": "Excellence Dark 70% cocoa",
+      "name": "Excellence Noir 70%",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -420,7 +430,7 @@
       ]
     },
     {
-      "name": "Excellence Dark 85% cocoa",
+      "name": "Excellence Noir 85%",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -462,7 +472,7 @@
       ]
     },
     {
-      "name": "Excellence Doux 85% noir delicat",
+      "name": "Excellence Noir 85% Doux",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -489,6 +499,18 @@
       ]
     },
     {
+      "name": "Excellence Noir 70% Doux",
+      "weight": 0.1,
+      "retail": 3.29,
+      "events": [
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "name": "Excellence Noir 90%",
       "weight": 0.1,
       "retail": 3.49,
@@ -496,6 +518,11 @@
         {
           "date": "06/06/2026",
           "session": "17e0aa3c",
+          "quantity": 1
+        },
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
           "quantity": 1
         }
       ]
@@ -731,6 +758,11 @@
           "date": "7/11/2025",
           "session": "b4862b21",
           "quantity": 1
+        },
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
+          "quantity": 2
         }
       ]
     },
@@ -768,6 +800,18 @@
           "date": "22/12/2025",
           "session": "5a921187",
           "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir Pailleté Dentelle",
+      "weight": 0.1,
+      "retail": 3.39,
+      "events": [
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
+          "quantity": 1
         }
       ]
     },
@@ -907,6 +951,11 @@
         {
           "date": "02/05/2026",
           "session": "eb2083e6",
+          "quantity": 1
+        },
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
           "quantity": 1
         }
       ]
@@ -1064,6 +1113,11 @@
           "date": "02/05/2026",
           "session": "eb2083e6",
           "quantity": 1
+        },
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
+          "quantity": 1
         }
       ]
     },
@@ -1188,6 +1242,11 @@
         {
           "date": "24/02/2026",
           "session": "a3f2c9bf",
+          "quantity": 1
+        },
+        {
+          "date": "31/07/2026",
+          "session": "b5d32b16",
           "quantity": 1
         }
       ]
