@@ -94,11 +94,27 @@
       "id": "b5d32b16",
       "date": "31/07/2026",
       "price": 17.99
+    },
+    {
+      "id": "a0116be5",
+      "date": "16/10/2026",
+      "price": 16.9
+    },
+    {
+      "id": "d3fbf47a",
+      "date": "16/10/2026",
+      "price": 16.9
+    },
+    {
+      "id": "baf3897a",
+      "date": "30/10/2026",
+      "price": 16.9
     }
   ],
   "tablets": [
     {
       "name": "Dessert 70% Cacao Intense",
+      "type": "Noir",
       "weight": 0.2,
       "retail": 4.99,
       "events": [
@@ -111,6 +127,7 @@
     },
     {
       "name": "Cooking Extra Fondant",
+      "type": "Noir",
       "weight": 0.2,
       "retail": 4.99,
       "events": [
@@ -123,6 +140,7 @@
     },
     {
       "name": "Création caramel",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -155,6 +173,7 @@
     },
     {
       "name": "Création crème brûlée ",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -182,6 +201,7 @@
     },
     {
       "name": "Création entremets noisette",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -234,6 +254,7 @@
     },
     {
       "name": "Création Irish coffee ",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -246,6 +267,7 @@
     },
     {
       "name": "Création Menthe Frappée",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -258,6 +280,7 @@
     },
     {
       "name": "Création praliné feuilleté ",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -280,6 +303,7 @@
     },
     {
       "name": "Création rocher blanc",
+      "type": "Blanc",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -292,6 +316,7 @@
     },
     {
       "name": "Création rocher lait",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -304,6 +329,7 @@
     },
     {
       "name": "Création Rocher noir",
+      "type": "Noir",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -316,6 +342,7 @@
     },
     {
       "name": "Excellence 100% noir profond",
+      "type": "Noir",
       "weight": 0.05,
       "retail": 3.49,
       "events": [
@@ -328,6 +355,7 @@
     },
     {
       "name": "Excellence Blanc extra velouté ",
+      "type": "Blanc",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -340,11 +368,22 @@
           "date": "02/05/2026",
           "session": "eb2083e6",
           "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Excellence Lait Caramel pointe de sel",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -357,11 +396,17 @@
           "date": "06/06/2026",
           "session": "17e0aa3c",
           "quantity": 1
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Excellence Noir Caramel pointe de sel",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -384,6 +429,7 @@
     },
     {
       "name": "Excellence Noir 70%",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -426,11 +472,22 @@
           "date": "06/06/2026",
           "session": "17e0aa3c",
           "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Excellence Noir 85%",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -468,11 +525,27 @@
           "date": "02/05/2026",
           "session": "eb2083e6",
           "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 1
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Excellence Noir 85% Doux",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -500,6 +573,7 @@
     },
     {
       "name": "Excellence Noir 70% Doux",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -512,6 +586,7 @@
     },
     {
       "name": "Excellence Noir 90%",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.49,
       "events": [
@@ -529,6 +604,7 @@
     },
     {
       "name": "Excellence Fusion Noir 70% & Blanc",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.99,
       "events": [
@@ -541,6 +617,7 @@
     },
     {
       "name": "Excellence Fusion Noir 70% & Lait",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.99,
       "events": [
@@ -548,11 +625,17 @@
           "date": "21/03/2026",
           "session": "8d723104",
           "quantity": 1
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Excellence Fusion Noir 85% Fleur de Sel & Lait",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.99,
       "events": [
@@ -565,6 +648,7 @@
     },
     {
       "name": "Excellence Lait extra fondant",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -572,11 +656,22 @@
           "date": "21/9/2025",
           "session": "23a7711a",
           "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 2
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 2
         }
       ]
     },
     {
       "name": "Excellence menthe intense",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -609,6 +704,7 @@
     },
     {
       "name": "Excellence Noir à la pointe de fleur de sel",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -641,6 +737,7 @@
     },
     {
       "name": "Excellence Noir amandes effilées ",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -658,11 +755,17 @@
           "date": "8/12/2025",
           "session": "5487ce1e",
           "quantity": 1
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Excellence Noir aux 3 graines",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -680,6 +783,7 @@
     },
     {
       "name": "Excellence Noir Citron Gingembre",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -687,11 +791,22 @@
           "date": "02/05/2026",
           "session": "85776e9a",
           "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Excellence Noir craquant Pailleté gaufrette",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -724,6 +839,7 @@
     },
     {
       "name": "Excellence Noir craquant Pailleté gaufrette et orange",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -746,6 +862,7 @@
     },
     {
       "name": "Excellence Noir framboise intense",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -768,6 +885,7 @@
     },
     {
       "name": "Excellence Noir Orange intense",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.29,
       "events": [
@@ -800,11 +918,17 @@
           "date": "22/12/2025",
           "session": "5a921187",
           "quantity": 2
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 2
         }
       ]
     },
     {
       "name": "Excellence Noir Pailleté Dentelle",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -817,6 +941,7 @@
     },
     {
       "name": "Excellence Noir Pistache ",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -834,6 +959,7 @@
     },
     {
       "name": "Excellence Noir sésame grillé",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -856,6 +982,7 @@
     },
     {
       "name": "Excellence Noir zeste de citron vert",
+      "type": "Noir",
       "weight": 0.1,
       "retail": 3.39,
       "events": [
@@ -873,11 +1000,17 @@
           "date": "24/02/2026",
           "session": "a3f2c9bf",
           "quantity": 1
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "L'authentique amandes effilées ",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.59,
       "events": [
@@ -900,6 +1033,7 @@
     },
     {
       "name": "L'authentique lait extra fin",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.49,
       "events": [
@@ -962,6 +1096,7 @@
     },
     {
       "name": "L'authentique lait fleur de sel",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.49,
       "events": [
@@ -989,6 +1124,7 @@
     },
     {
       "name": "L'authentique lait noisettes ",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.49,
       "events": [
@@ -1011,6 +1147,7 @@
     },
     {
       "name": "L'authentique noir extra fondant",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.59,
       "events": [
@@ -1023,6 +1160,7 @@
     },
     {
       "name": "Les grandes 34% noisettes lait",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 6.99,
       "events": [
@@ -1035,6 +1173,7 @@
     },
     {
       "name": "Les grandes Noir Praliné Noisettes",
+      "type": "Noir",
       "weight": 0.225,
       "retail": 6.99,
       "events": [
@@ -1047,6 +1186,7 @@
     },
     {
       "name": "Lindor 70% cacao",
+      "type": "Noir",
       "weight": 0.145,
       "retail": 4.49,
       "events": [
@@ -1064,6 +1204,7 @@
     },
     {
       "name": "Lindor blanc",
+      "type": "Blanc",
       "weight": 0.1,
       "retail": 2.99,
       "events": [
@@ -1081,6 +1222,7 @@
     },
     {
       "name": "Lindor lait",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -1123,6 +1265,7 @@
     },
     {
       "name": "Lindor noir",
+      "type": "Noir",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -1135,6 +1278,7 @@
     },
     {
       "name": "Lindor Caramel Pointe de sel",
+      "type": "Lait",
       "weight": 0.15,
       "retail": 4.49,
       "events": [
@@ -1142,11 +1286,27 @@
           "date": "06/06/2026",
           "session": "17e0aa3c",
           "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 1
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 1
         }
       ]
     },
     {
       "name": "Lucky monkey lait céréales croustillantes",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.99,
       "events": [
@@ -1164,6 +1324,7 @@
     },
     {
       "name": "Lucky monkey lait fondant pâte de noisette",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.99,
       "events": [
@@ -1201,6 +1362,7 @@
     },
     {
       "name": "Lucky monkey lait onctueux",
+      "type": "Lait",
       "weight": 0.1,
       "retail": 2.99,
       "events": [
@@ -1247,6 +1409,60 @@
         {
           "date": "31/07/2026",
           "session": "b5d32b16",
+          "quantity": 1
+        },
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "L'authentique double lait",
+      "type": "Lait",
+      "weight": 0.1,
+      "retail": 2.59,
+      "events": [
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Grand plaisir Noir Caramel & Fleur de Sel",
+      "type": "Noir",
+      "weight": 0.15,
+      "retail": 6.99,
+      "events": [
+        {
+          "date": "16/10/2026",
+          "session": "a0116be5",
+          "quantity": 1
+        },
+        {
+          "date": "16/10/2026",
+          "session": "d3fbf47a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Excellence Noir Poire",
+      "type": "Noir",
+      "weight": 0.1,
+      "retail": 3.39,
+      "events": [
+        {
+          "date": "30/10/2026",
+          "session": "baf3897a",
           "quantity": 1
         }
       ]

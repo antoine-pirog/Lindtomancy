@@ -51,14 +51,16 @@ def build_chocodataframe(objdata):
     return df
 
 def build_identitydataframe(objdata):
-    """ Build dataframe for tablet identity (name, retail price, weight) """
+    """ Build dataframe for tablet identity (name, type, retail price, weight) """
     tabular_data = {
         "Tablet" : [],
+        "Type" : [],
         "Retail (€)" : [],
         "Weight (g)" : []
     }
     for tablet in objdata["tablets"]:
         tabular_data["Tablet"].append(tablet["name"])
+        tabular_data["Type"].append(tablet["type"])
         tabular_data["Retail (€)"].append(tablet["retail"])
         tabular_data["Weight (g)"].append(tablet["weight"]*1e3)
     return pd.DataFrame(tabular_data).set_index("Tablet")
